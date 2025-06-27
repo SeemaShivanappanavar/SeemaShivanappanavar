@@ -1,10 +1,14 @@
 # 💫 Hi 👋, I'm Seema S
-**A passionate FrontEnd Developer**
 
+**A passionate FrontEnd Developer**
+<br>
+Currently studying at **KLE Technological University (Formely BVB)(3rd year), Hubli**.
+<br>
 Email Me 👉 ✉️ **seemashivanappanavar8@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Frontend web developement
 - 📫 **How to reach me:** seemashivanappanavar8@gmail.com
+- 🤝 Open to internships, freelance & collaborative design work
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seema_s_3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seemashivanappanavar8@gmail.com) 
